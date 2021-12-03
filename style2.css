@@ -1,0 +1,10 @@
+.i{
+    display: flex;
+
+}
+header ul li{
+margin-right:30px  ;
+list-style: none;
+float: left;
+
+}
